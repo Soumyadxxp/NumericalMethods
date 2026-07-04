@@ -58,28 +58,6 @@ All programs are written in standard C and can be compiled using GCC, Dev-C++, C
 
 ---
 
-NumericalMethods/
-│
-├── Bisection Method in.c
-├── Euler's Method in.c
-├── GaussSeidelMethod.c
-├── Lagrange Interpolation Method in.c
-├── Newton Raphson user input interval.c
-├── Newton's Backward Interpolation Method in.c
-├── Newton's Forward Interpolation in.c
-├── Newton-Raphson Method in.c
-├── Regula Falsi user input interval.c
-├── Regula-Falsi Method in.c
-├── Runge-Kutta Method 1st.c
-├── Runge-Kutta Method 2nd.c
-├── Runge-Kutta Method in 3rd.c
-├── Runge-Kutta Method 4th.c
-├── Simpson's one third rule in.c
-├── Trapezoidal Rule in.c
-├── Weddle's Rule in.c
-└── README.md
----
-
 ## Technology Used
 
 - C Programming Language
