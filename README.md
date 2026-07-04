@@ -177,6 +177,4 @@ This repository is intended for:
 
 ---
 
-## Support
 
-If you find this repository useful for your studies or projects, please consider giving it a **Star** on GitHub.
